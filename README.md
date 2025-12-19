@@ -6,7 +6,7 @@
 
 | Name                   | GitHub Handle | Contribution                                                |
 | ---------------------- | ------------- | ----------------------------------------------------------- |
-| Abhinaya Guduru        | @abhinayaguduru| Data exploration, preprocessing, clustering experimentation |
+| Abhinaya Guduru        | @abhinaya-03  | Data exploration, preprocessing, clustering experimentation |
 | Hector Rios            | @Hrios05      | Feature engineering, clustering pipelines, model evaluation |
 | Anvitha Mattapalli     | @anvitha-sm   | Data cleaning, EDA, feature alignment                       |
 | Neha Hingorani         | @antsfly626   | Model comparison, validation metrics, visualization         |
